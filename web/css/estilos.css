@@ -9,7 +9,16 @@ and open the template in the editor.
 */
 
 /*header*/
+.tamNavbar{
+    padding-top: 0 !important;
+    height: 150px !important;
+}
+
 .logo-float{
     position: relative;
-    top:50px;
+    top:60px;
+}
+.slogan{ 
+    margin-top: 0 !important;
+    color: black;
 }
